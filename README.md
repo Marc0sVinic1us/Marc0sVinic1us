@@ -10,9 +10,9 @@
 
 📚 Studying Computer Science on Federal University of ABC (UFABC)
 
-👯 Looking to collaborate on projects to improve my resume and help all people.
+🤝🏼 Looking to collaborate on projects to improve my resume and help all people.
 
 
 ### How to reach me ...
 
-🤝🏼 [Linkedin](linkedin.com/in/marcos-vinicius-pereira-285560212)
+💬 [Linkedin](linkedin.com/in/marcos-vinicius-pereira-285560212)
