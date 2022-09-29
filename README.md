@@ -8,8 +8,6 @@
 
 🌱 I’m currently learning Java, Python and JavaScript.
 
-📚 Studying Computer Science on Federal University of ABC (UFABC)
-
 🤝🏼 Looking to collaborate on projects to improve my resume and help all people.
 
 
