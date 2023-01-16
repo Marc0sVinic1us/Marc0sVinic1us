@@ -1,21 +1,12 @@
-## Hi there!
-
-👋 Marcos Vinicius Pereira, 19 years old.
-
-📍 I'm from São Paulo, Brazil.
-
-👀 Interested in technology, programming, and increase my knwoledge!
-
-🌱 I’m currently learning Java, Python and JavaScript.
-
-🤝🏼 Looking to collaborate on projects to improve my resume and help all people.
-
-
-### How to reach me ...
-
-💬 [Linkedin](linkedin.com/in/marcos-vinicius-pereira-285560212)
+## Olá eu sou Marcos Vinicius, estudante de Ciência da Computação!
 
 ##
+
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marc0sVinic1us&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marc0sVinic1us&layout=compact&langs_count=16&theme=tokyonight"/>
+</div>
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Marcos-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
