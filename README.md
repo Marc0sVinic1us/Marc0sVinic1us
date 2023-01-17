@@ -1,10 +1,12 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4169E1&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Marcos+Vinicius;I'm+19+years+old;I'm+from+Brazil;I'm+student+of+Computer+Science;Be+welcome!+:%29)](https://git.io/typing-svg)
-<div>
+
+<!-- github-stats error -->
+<!-- <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marc0sVinic1us&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marc0sVinic1us&layout=compact&langs_count=16&theme=tokyonight"/>
-</div>
+</div> -->
 
 
 <div style="display: inline_block"><br>
