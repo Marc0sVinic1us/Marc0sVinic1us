@@ -28,17 +28,12 @@
  ### Main skills:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
 ![Python](https://img.shields.io/badge/-PYTHON-0D1117?style=for-the-badge&logo=PYTHON&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Python](https://img.shields.io/badge/-FLASK-0D1117?style=for-the-badge&logo=FLASK&logoColor=1572B6&labelColor=0D1117)&nbsp;
-
-
-### Studying at this moment:
+![Flask](https://img.shields.io/badge/-FLASK-0D1117?style=for-the-badge&logo=FLASK&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-  
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Marc0sVinic1us}/count.svg" /></p> 
-<br>
-</div>
+
+### Studying at this moment:
+![Next.JS](https://img.shields.io/badge/next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=0D1117)&nbsp;
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-0D1117?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC&labelColor=0D1117)&nbsp;
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=120&section=footer"/>
